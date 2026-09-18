@@ -25,7 +25,7 @@ Projeto de atividade prática para **D.S., (ETEC)**, que aplica conceitos de **e
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 ```bash
 python pesquisa_opiniao.py
@@ -34,6 +34,18 @@ python pesquisa_opiniao.py
 Durante os testes, o número de entrevistados foi fixado em `10` (variável `entrevistados`),para a validação da atividade. Para a versão final, a variável é, então, `50`.
 
 ---
+
+## 🖼️ Prints
+
+**Código:**
+
+![Código do programa](assets/codigo.png)
+
+**Execução no terminal:**
+
+![Execução do programa](assets/execucao.png)
+
+----
 
 ## 🛠️ Tecnologias e competências aplicadas
 
