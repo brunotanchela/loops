@@ -45,6 +45,8 @@ Durante os testes, o número de entrevistados foi fixado em `10` (variável `ent
 
 ![Execução do programa](assets/execucao.png)
 
+*Nota: se a opinião fosse inválida, o programa a pediria novamente e contabilizaria ela normalmente, mostrando-a ao final, no feedback geral.*
+
 ----
 
 ## 🛠️ Tecnologias e competências aplicadas
